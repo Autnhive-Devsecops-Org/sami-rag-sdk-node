@@ -42,7 +42,7 @@ npm install sami-rag-client@1.0.0 --save
 _Self Hosted:_
 
 ```
-npm install "git+https://github.com/Autnhive-Devsecops-Org/sami-sdk-node.git#SDK_RAG_TEMP_ORPHAN" --save
+npm install "git+https://github.com/Autnhive-Devsecops-Org/sami-rag-sdk-node.git" --save
 ```
 
 ### Documentation for API Endpoints
